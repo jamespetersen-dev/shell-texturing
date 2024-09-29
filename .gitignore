@@ -1,0 +1,25 @@
+# Ignore Unity temp and generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+*.csproj
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.unityproj
+*.prefs
+*.csproj.user
+*.sln
+*.swp
+
+# Ignore the auto-generated VS Code settings
+.vscode/
+
+# Ignore crash reports, builds, and logs
+*.stackdump
+*.log

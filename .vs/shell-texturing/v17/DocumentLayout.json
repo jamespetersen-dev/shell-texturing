@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\peter\\Projects\\Practice\\Unity\\shell-texturing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03C92A04-EF68-D500-8F44-4984B70A616B}|Assembly-CSharp.csproj|C:\\Users\\peter\\Projects\\Practice\\Unity\\shell-texturing\\assets\\scripts\\baseshelltexture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03C92A04-EF68-D500-8F44-4984B70A616B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\baseshelltexture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C92A04-EF68-D500-8F44-4984B70A616B}|Assembly-CSharp.csproj|C:\\Users\\peter\\Projects\\Practice\\Unity\\shell-texturing\\assets\\shaders\\standardshelltexture.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{03C92A04-EF68-D500-8F44-4984B70A616B}|Assembly-CSharp.csproj|solutionrelative:assets\\shaders\\standardshelltexture.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C92A04-EF68-D500-8F44-4984B70A616B}|Assembly-CSharp.csproj|c:\\users\\peter\\projects\\practice\\unity\\shell-texturing\\assets\\shaders\\baseshelltexture.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{03C92A04-EF68-D500-8F44-4984B70A616B}|Assembly-CSharp.csproj|solutionrelative:assets\\shaders\\baseshelltexture.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StandardShellTexture.shader",
+              "DocumentMoniker": "C:\\Users\\peter\\Projects\\Practice\\Unity\\shell-texturing\\Assets\\Shaders\\StandardShellTexture.shader",
+              "RelativeDocumentMoniker": "Assets\\Shaders\\StandardShellTexture.shader",
+              "ToolTip": "C:\\Users\\peter\\Projects\\Practice\\Unity\\shell-texturing\\Assets\\Shaders\\StandardShellTexture.shader",
+              "RelativeToolTip": "Assets\\Shaders\\StandardShellTexture.shader",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2024-09-29T15:49:33.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseShellTexture.cs",
+              "DocumentMoniker": "C:\\Users\\peter\\Projects\\Practice\\Unity\\shell-texturing\\Assets\\Scripts\\BaseShellTexture.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BaseShellTexture.cs",
+              "ToolTip": "C:\\Users\\peter\\Projects\\Practice\\Unity\\shell-texturing\\Assets\\Scripts\\BaseShellTexture.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BaseShellTexture.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T02:03:48.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseShellTexture.shader",
+              "DocumentMoniker": "C:\\Users\\peter\\Projects\\Practice\\Unity\\shell-texturing\\Assets\\Shaders\\BaseShellTexture.shader",
+              "RelativeDocumentMoniker": "Assets\\Shaders\\BaseShellTexture.shader",
+              "ToolTip": "C:\\Users\\peter\\Projects\\Practice\\Unity\\shell-texturing\\Assets\\Shaders\\BaseShellTexture.shader",
+              "RelativeToolTip": "Assets\\Shaders\\BaseShellTexture.shader",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2024-09-29T01:36:08.686Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
