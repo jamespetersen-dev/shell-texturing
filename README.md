@@ -1,1 +1,1 @@
-![Base Shell Texture](./BaseShellTexture.png)
+![Base Shell Texture](./ExampleImages/BaseShellTexture.png)
