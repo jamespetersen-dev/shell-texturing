@@ -1,1 +1,1 @@
-[[BaseShellTexture.png]]
+![Base Shell Texture](ExampleImage/BaseShellTexture.png)
