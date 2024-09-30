@@ -16,6 +16,7 @@
 *.csproj.user
 *.sln
 *.swp
+.vs/
 
 # Ignore the auto-generated VS Code settings
 .vscode/
